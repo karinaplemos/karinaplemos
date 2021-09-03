@@ -1,6 +1,6 @@
-### Hi there! 👋 My name is Karina Pereira de Lemos.
+### Olá! 👋 Meu nome é Karina Pereira de Lemos.
 
-- 📚 I'm currently learning front-end development and data science.
+- 📚 Atualmente estou estudando desenvolvimento front-end e ciência de dados.
 
 <div>
   <a href="https://github.com/karinaplemos">
@@ -8,7 +8,8 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaplemos&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
- ### Skills
+  ##
+ ### 🤓 Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Karina-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Karina-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
@@ -21,7 +22,15 @@
 </div>
 
 ##
-### How contact me
+### ❤️ Interesses:
+  - Desenvolvimento Mobile
+  - Desenvolvimento Web
+  - Engenharia de Software
+  - Ciência de Dados
+  - Biologia Computacional
+
+ ##
+### 📧 Contato
 <div>
 <a href = "mailto:karinalemos@id.uff.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/karina-pereira-de-lemos-590713158" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
