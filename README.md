@@ -11,7 +11,6 @@
  ### 🤓 Skills
 <div style="display: inline_block"><br>
   <img align="center" alt="Karina-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Karina-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Karina-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Karina-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Karina-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -26,8 +25,6 @@
 ### ❤️ Interesses:
   - Desenvolvimento Mobile
   - Desenvolvimento Web
-  - Engenharia de Software
-  - Ciência de Dados
   - Biologia Computacional
 
  ##
