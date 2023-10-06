@@ -1,6 +1,6 @@
 ### Olá! 👋 Meu nome é Karina Pereira de Lemos.
 
-- 📚 Atualmente estou estudando desenvolvimento front-end e ciência de dados.
+- 📚 Desenvolvedora em construção.
 
 <div>
   <a href="https://github.com/karinaplemos">
@@ -18,6 +18,8 @@
   <img align="center" alt="Karina-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Karina-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Karina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Karina-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
 </div>
 
 ##
