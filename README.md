@@ -1,7 +1,5 @@
 ### Olá! 👋 Meu nome é Karina Pereira de Lemos.
 
-- 📚 Desenvolvedora em construção.
-
 <div>
   <a href="https://github.com/karinaplemos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karinaplemos&layout=compact&langs_count=7&theme=dracula"/>
@@ -25,7 +23,6 @@
 ### ❤️ Interesses:
   - Desenvolvimento Mobile
   - Desenvolvimento Web
-  - Biologia Computacional
 
  ##
 ### 📧 Contato
